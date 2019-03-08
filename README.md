@@ -5,5 +5,5 @@ When calling the testng runs you must specify your Applitools Eyes API Key
 
 for example 
 
--DeyesAPIKey=<API KEY GOES HERE>
+-DeyesAPIKey=API KEY GOES HERE
   
